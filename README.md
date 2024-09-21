@@ -1,4 +1,4 @@
-This is a python tool with predefined libraries whuch can crack and identify hashes . 
+This is a simple python tool with predefined libraries which can crack and identify hashes . 
 Hash Buster is Python tool to crack or identify hashes 
 
 Features:- 
