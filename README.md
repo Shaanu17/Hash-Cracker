@@ -19,8 +19,8 @@ Finding hashes from a directory
      python3 hash.py -d /root/Documents ( Any directory name )
 Cracking hashes from a file
 Hash Buster can find your hashes even if they are stored in a file like this
-pandeyyas@gmailcom:21232f297a57a5a743894a0e4a801fc3
-yadav234@gmail.com :d033e22ae348aeb5660fc2140aec35850c4da997 
+mehnaazs@gmailcom:21232f297a57a5a743894a0e4a801fc3
+shaanu234@gmail.com :d033e22ae348aeb5660fc2140aec35850c4da997 
 
 
 
