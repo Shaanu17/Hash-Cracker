@@ -1,5 +1,5 @@
-This is a simple python tool with predefined libraries which can crack and identify hashes . 
-Hash Buster is Python tool to crack or identify hashes 
+                              "Simple yet powerful tool"
+This is a simple python tool with predefined libraries which can crack and identify hashes .
 
 Features:- 
 1. Automatic hash type identification
@@ -20,14 +20,7 @@ Finding hashes from a directory
 Cracking hashes from a file
 Hash Buster can find your hashes even if they are stored in a file like this
 mehnaazs@gmailcom:21232f297a57a5a743894a0e4a801fc3
-shaanu234@gmail.com :d033e22ae348aeb5660fc2140aec35850c4da997 
-
-
-
-
-
-
-
+shaanu234@gmail.com :d033e22ae348aeb5660fc2140aec35850c4da997
 
 
 Note: Hash Buster isn't compatible with python2, run it with python3 instead.
